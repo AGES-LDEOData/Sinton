@@ -24,9 +24,61 @@
         "value": 1.0
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.589e-08
+        "error": 7.104809691953709e-11,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-86",
+                "uuid": "5f6cd519-7a01-41f7-99c6-d84883bf8af1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-87",
+                "uuid": "7e8c97b5-eb24-45ec-9572-30f143b30a5f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-88",
+                "uuid": "f261dd4a-ba5d-4780-8b86-fdbb637c0414"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-89",
+                "uuid": "1756bded-28f7-4196-9778-5450f8d073e9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-90",
+                "uuid": "6cd1f732-73e9-4198-8122-45d1b74379e3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-91",
+                "uuid": "376cafa0-1ac9-4de2-b723-ea1d659a41c1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-92",
+                "uuid": "ba144022-6c51-49bf-ba3a-4496da81fd20"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-93",
+                "uuid": "9277c715-6dc5-4d14-bcf1-b4c686eb20f6"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-94",
+                "uuid": "6ab5b718-bcac-4d8a-879b-627ab3b85916"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-N-95",
+                "uuid": "d2845528-77f5-47dd-9cd3-ac0cc49d60bc"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.706414958323172e-08
     }
 }
